@@ -3,7 +3,7 @@
 ```docker-compose up -d```
 
 ```
-`https://shell.cloud.google.com kafka örneği için google cloud shell den yararlanabilirsiniz.`
+https://shell.cloud.google.com kafka örneği için google cloud shell den yararlanabilirsin.
 
 docker-file.yaml file ı ile docker kullanarak kafka, kafka connect, kafka connect UI ve kafdrop(kafka topic monitör) ortamlarını ayağa kaldırabilirsin. 
     `kafka connect` kullanma zorunluluğu yok ama kullanmak istersen ortamın hazır olsun diyerek ekledik.
